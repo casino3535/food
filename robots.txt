@@ -1,6 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://casino3535.github.io/sitemap.xml
-
-
+Disallow: /cgi-bin
